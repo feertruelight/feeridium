@@ -1,13 +1,28 @@
-# feeridium
+# Feeridium
 
 ## About
 This EVE Online Overview Pack is a tribute to the original Iridium Overview and uses it as a basis for further developments.
 
+## Install
+- Download the latest [release](https://github.com/feertruelight/feeridium/releases), unzip it and put the .yaml-File in the C:\Users\<user>\Documents\EVE\Overview folder.
+- In the EVE client, reset the overview settings (see [Uniwiki Overview](https://wiki.eveuniversity.org/Overview) for further information if you have never used a 3rd party overview before) and import the .yaml-File (check all checkboxes).
+
 ## Structure
 The filenames are structured as follows:
-feeridium_&lt;eve patch version&gt;_&lt;feeridium version&gt;.yaml
+feeridium_&lt;EVE Patch Version&gt;_&lt;Feeridium Version&gt;.yaml
 
-This way you should find the latest files and be able to compare the changes.
+This way you should find the latest files and be able to compare the changes between releases.
+
+### EVE Patch Versions
+| Version | Expansion |
+|---------|-----------|
+| 22.02   | Revenant  |
+| 22.01   | Equinox   |
+| 21.06   | Havoc     |
+| 21.05   | Viridian  |
+
+### Feeridium Versions
+This will reset to 1 with the release of a new EVE patch version and gets incremented by 1 for each release I publish on Github.
 
 ## Optional Settings
 Optionally you can add fleet broadcast settings. Just copy the following text in an in-game notepad and click the link:
@@ -18,6 +33,9 @@ Optionally you can add fleet broadcast settings. Just copy the following text in
 
 * In Game: [Feer Truelight](https://evewho.com/character/92096845)
 * Github Issues: [Create new one](https://github.com/feertruelight/feeridium/issues/new)
+
+## Staying up2date
+When I publish an update on Github I will also write a message in the in-game mailing list "feeridium" to inform about it.
 
 ## Acknowledgement
 A big thank you goes to [Thomas Iridium](https://evewho.com/character/95643598) for the great Iridium Overview Pack. Hopefully I will do it justice with this work!
