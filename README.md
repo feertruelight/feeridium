@@ -1,5 +1,14 @@
 # Feeridium
 
+## IMPORTANT UPDATE:
+As of 26th of November 2024, this repository will not be updated for the time being. 
+
+Thomas Iridium (from the original Iridium Overview) came back, updated the overview and made it open source [here](https://github.com/iridiumops/overview). I'm going to join forces with him there as a contributor. Thank you for your trust and fly safe!
+
+Feer Truelight o7
+
+## ---------------
+
 ## About
 This EVE Online Overview Pack is a tribute to the original Iridium Overview and uses it as a basis for further developments.
 
@@ -35,7 +44,7 @@ Optionally you can add fleet broadcast settings. Just copy the following text in
 * Github Issues: [Create new one](https://github.com/feertruelight/feeridium/issues/new)
 
 ## Staying up2date
-When I publish an update on Github I will also write a message in the in-game mailing list "feeridium" to inform about it.
+When I publish an update on Github I will also write a message in the in-game mailing list "Feeridium" to inform about it.
 
 ## Acknowledgement
 A big thank you goes to [Thomas Iridium](https://evewho.com/character/95643598) for the great Iridium Overview Pack. Hopefully I will do it justice with this work!
